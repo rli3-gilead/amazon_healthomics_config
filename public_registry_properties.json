@@ -14,5 +14,6 @@
     "ghcr.io": { "namespace": "ghcr", "pull_through": false },
     "mcr.microsoft.com": { "namespace": "mcr", "pull_through": false },
     
-    "dockerhub": { "namespace": "dockerhub", "pull_through": false }
+    "dockerhub": { "namespace": "dockerhub", "pull_through": false },
+    "quay.io/awsecr111": { "namespace": "awsecr111", "pull_through": false }
 }
