@@ -4,6 +4,8 @@
 
     "quay.io": { "namespace": "quay", "pull_through": true },
     "quay": { "namespace": "quay", "pull_through": true },
+
+    "community.wave.seqera.io": { "namespace": "wave", "pull_through": true }
     
     "us.gcr.io": { "namespace": "gcr", "pull_through": false },
     "eu.gcr.io": { "namespace": "gcr", "pull_through": false },
