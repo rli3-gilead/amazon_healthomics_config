@@ -18,4 +18,5 @@
     
     "dockerhub": { "namespace": "dockerhub", "pull_through": false },
     "quay.io/awsecr111": { "namespace": "awsecr111", "pull_through": false }
+    "docker.io/awsecr111": { "namespace": "awsecr111", "pull_through": false }
 }
